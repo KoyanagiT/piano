@@ -1,7 +1,7 @@
 # piano
 
 This is the piano.
-This was made only only for playing a song I like.
+This was made only for playing a song I like.
 
 # DEMO
 
